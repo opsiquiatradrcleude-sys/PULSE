@@ -1,0 +1,9 @@
+{
+  "name": "Pulse Web",
+  "description": "A premium dating experience with AI-powered matchmaking and conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
